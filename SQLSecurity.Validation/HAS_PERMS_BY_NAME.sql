@@ -1,0 +1,6 @@
+USE WideWorldImportersSECURITY
+GO
+
+SELECT HAS_PERMS_BY_NAME(NULL,NULL,'VIEW SERVER STATE')	ViewServerState
+
+SELECT HAS_PERMS_BY_NAME(db_name(), 'DATABASE', 'ANY')	AnyDatabasePermission

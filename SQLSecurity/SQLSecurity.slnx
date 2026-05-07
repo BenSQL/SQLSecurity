@@ -1,0 +1,26 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Default" />
+    <Platform Name="Default" />
+  </Configurations>
+  <Project Path="../SQLSecurity.Mitigations/SQLSecurity.Mitigations.ssmssqlproj" Type="4f2e2c19-372f-40d8-9fa7-9d2138c6997a">
+    <Platform Project="?" />
+    <Build Project="false" />
+  </Project>
+  <Project Path="../SQLSecurity.Setup/SQLSecurity.Setup.ssmssqlproj" Type="4f2e2c19-372f-40d8-9fa7-9d2138c6997a">
+    <Platform Project="?" />
+    <Build Project="false" />
+  </Project>
+  <Project Path="../SQLSecurity.Validation/SQLSecurity.Validation.ssmssqlproj" Type="4f2e2c19-372f-40d8-9fa7-9d2138c6997a">
+    <Platform Project="?" />
+    <Build Project="false" />
+  </Project>
+  <Project Path="../SQLSecurity.XEvents/SQLSecurity.XEvents.ssmssqlproj" Type="4f2e2c19-372f-40d8-9fa7-9d2138c6997a">
+    <Platform Project="?" />
+    <Build Project="false" />
+  </Project>
+  <Project Path="SQLSecurity.ssmssqlproj" Type="4f2e2c19-372f-40d8-9fa7-9d2138c6997a">
+    <Platform Project="?" />
+    <Build Project="false" />
+  </Project>
+</Solution>

@@ -1,0 +1,2 @@
+##Run from command prompt with admin rights
+NET LOCALGROUP Developers /add

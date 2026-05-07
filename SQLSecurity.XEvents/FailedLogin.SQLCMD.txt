@@ -1,0 +1,2 @@
+#Bad login used to demonstrate failed login xevent
+sqlcmd -S . -d master -U BadLogin -P xxxyyyzzz
